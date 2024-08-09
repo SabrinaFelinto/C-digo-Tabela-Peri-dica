@@ -10,3 +10,15 @@ if(elemento == 'Ac'):
     print('Nome do elemento: Actínio')
     print('Nome do elemento:227')
     print('Valor atomico do elemento:89')
+    
+if(elemento == 'La'):
+    print('Nome do elemento Lantanío')
+    print('Massa do elemento:138.905')
+    print('Valor atomico do elemento: 89')
+
+if(elemento == "H2o"):
+    print('Nome do elemento: Água')
+    print('Massa do elemento: 1')
+    print('Valor atomico do elemnto: 18')
+
+
