@@ -1,0 +1,7 @@
+elemento = input('Digite aqui o elemento')
+elemento = elemento.capitalize()
+
+if(elemento == 'Ca'):
+    print('Nome do elemento: Cálcio')
+    print('Massa do elemento: 40.078')
+    print('Valor atomico do elemento: 27')
