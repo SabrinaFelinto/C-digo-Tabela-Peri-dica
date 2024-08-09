@@ -5,3 +5,8 @@ if(elemento == 'Ca'):
     print('Nome do elemento: Cálcio')
     print('Massa do elemento: 40.078')
     print('Valor atomico do elemento: 27')
+
+if(elemento == "H2o"):
+    print('Nome do elemento: Água')
+    print('Massa do elemento: 1')
+    print('Valor atomico do elemnto: 18')
